@@ -26,7 +26,7 @@ if (!empty($_POST)) {
     Database::disconnect();
     
     // Redirect to the employee list
-    header("Location: dashboard.php");
+    header("Location: dashboard .php");
     exit;
 }
 
