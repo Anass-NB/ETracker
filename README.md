@@ -13,24 +13,29 @@ A lightweight and extendable RFID-based employee entry/exit tracking system usin
 
 ## 📸 Demo Screenshots
 
-### 🔐 Login Page
-![Login](assets/screenshots/login.png)
+### 🔐 Home Page
+![Home](assets/screenshots/12.jpeg)
 
 ### 🏠 Home Dashboard
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](assets/screenshots/1.jpeg)
+![Dashboard](assets/screenshots/2.jpeg)
+![Dashboard](assets/screenshots/3.jpeg)
+![Dashboard](assets/screenshots/4.jpeg)
+![Dashboard](assets/screenshots/5.jpeg)
+![Dashboard](assets/screenshots/6.jpeg)
+![Dashboard](assets/screenshots/7.jpeg)
+![Dashboard](assets/screenshots/8.jpeg)
+![Dashboard](assets/screenshots/9.jpeg)
+![Dashboard](assets/screenshots/10.jpeg)
+![Dashboard](assets/screenshots/11.jpeg)
+![Dashboard](assets/screenshots/12.jpeg)
+![Dashboard](assets/screenshots/13.jpeg)
+![Dashboard](assets/screenshots/14.jpeg)
+![Dashboard](assets/screenshots/15.jpeg)
+![Dashboard](assets/screenshots/16.jpeg)
+![Dashboard](assets/screenshots/17.jpeg)
 
-### 📋 Employee Management
-![Employees](assets/screenshots/employees.png)
 
-### ⏱️ Time Logs & Attendance Chart
-![Time Logs](assets/screenshots/time_logs.png)
-
-### 🧭 Admin Dashboard Summary
-![Admin Dashboard](assets/screenshots/admin_dashboard.png)
-
-> **Note**: Place these images in a folder like `assets/screenshots/` in your repo for them to render properly.
-
----
 
 ## 🗂️ Folder Structure
 
